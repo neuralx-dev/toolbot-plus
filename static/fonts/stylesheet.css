@@ -1,0 +1,165 @@
+@font-face {
+    font-family: 'PeydaWeb ExtBd';
+    src: url('PeydaWeb-ExtraBold.woff2') format('woff2'),
+        url('PeydaWeb-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb ExtLt';
+    src: url('PeydaWeb-ExtraLight.woff2') format('woff2'),
+        url('PeydaWeb-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-Light.woff2') format('woff2'),
+        url('PeydaWeb-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-Bold.woff2') format('woff2'),
+        url('PeydaWeb-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-Regular.woff2') format('woff2'),
+        url('PeydaWeb-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb Med';
+    src: url('PeydaWeb-Medium.woff2') format('woff2'),
+        url('PeydaWeb-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-Black.woff2') format('woff2'),
+        url('PeydaWeb-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb SemBd';
+    src: url('PeydaWeb-SemiBold.woff2') format('woff2'),
+        url('PeydaWeb-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-Thin.woff2') format('woff2'),
+        url('PeydaWeb-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-ExtraLight.woff2') format('woff2'),
+        url('PeydaWeb-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-Bold.woff2') format('woff2'),
+        url('PeydaWeb-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-Black.woff2') format('woff2'),
+        url('PeydaWeb-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-Light.woff2') format('woff2'),
+        url('PeydaWeb-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-ExtraBold.woff2') format('woff2'),
+        url('PeydaWeb-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-Medium.woff2') format('woff2'),
+        url('PeydaWeb-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-Thin.woff2') format('woff2'),
+        url('PeydaWeb-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-Regular.woff2') format('woff2'),
+        url('PeydaWeb-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PeydaWeb';
+    src: url('PeydaWeb-SemiBold.woff2') format('woff2'),
+        url('PeydaWeb-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+*{
+    font-family: PeydaWeb, serif !important;
+}
