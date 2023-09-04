@@ -1,10 +1,10 @@
 # Use a node image as the base
-FROM node:14.15.0 as build
+FROM node:latest as build
 
 # Install dependencies
 WORKDIR /app
 COPY package.json package-lock.json ./
-RUN npm ci
+RUN npm install
 
 # Copy all local files into the image
 COPY . .
@@ -13,7 +13,7 @@ COPY . .
 RUN npm run build
 
 # Use a node image for the deployment stage
-FROM node:14.15.0
+FROM node:latest
 
 # Copy the build folder from the previous stage
 WORKDIR /app
